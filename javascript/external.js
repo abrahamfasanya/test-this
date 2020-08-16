@@ -2,6 +2,8 @@ import {products} from './first.js';
 
 console.log(products)
 
+
+
 function showAvailableProd () {
   [
        {

@@ -1,4 +1,5 @@
 let products = [
+  
     {
       name: "Rice",
       description: "This is a description on rice",
